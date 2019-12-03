@@ -1,6 +1,7 @@
 {
     "latest_version":"1.1.1",
     "is_reviewing":0,
+    "isShowAfterSeconds":false,
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/drawanimemanga_category.json",
     "admob_app_id":"ca-app-pub-4322965078780162~8003137134",
     "admob_banner_id":"ca-app-pub-4322965078780162/9479870330",
